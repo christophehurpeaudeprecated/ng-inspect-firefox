@@ -1,0 +1,10 @@
+{
+  "name": "ng-inspect",
+  "title": "ng-inspect",
+  "id": "jid1-v6jvJrqACQCakw",
+  "description": "Inspect the angular scope in the developper tools inspector",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com>",
+  "license": "MIT",
+  "version": "0.2",
+  "private-browsing": true
+}
